@@ -1,0 +1,65 @@
+[  
+  {    
+    "id": 1,    
+    "name": "Treadmill",    
+    "price": 1200,   
+     "features": [      
+      "Adjustable incline",      
+      "Programmable workouts",      
+      "Heart rate monitor"    
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Elliptical machine",
+    "price": 800,
+    "features": [
+      "Low-impact workout",
+      "Adjustable resistance",
+      "Programmable workouts",   
+      "Integrated tablet holder"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Power rack",
+    "price": 1500,
+    "features": [
+      "Heavy-duty construction",
+      "Multiple safety features",
+      "Built-in pull-up bar"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dumbbell set",
+    "price": 300,
+    "features": [
+      "Various weight increments",
+      "Space-saving design",
+      "Programmable workouts",  
+      "Multi-position backrest", 
+      "Rubberized grip for comfort"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Adjustable bench",
+    "price": 250,
+    "features": [
+      "Multi-position backrest",
+      "Durable steel frame",
+      "Compact and foldable"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Exercise bike",
+    "price": 700,
+    "features": [
+      "Adjustable seat and handlebars",
+      "Integrated display screen",
+      "Multiple resistance levels"
+    ]
+  }
+]
